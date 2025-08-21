@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 🔧 I developed projects in C, C#, Python and Web Languages.
 
-### 💻 Teknolojiler & Diller
+### 💻 Technologies & Languages
 🔵 C | 🟦 C# | 🐍 Python | 📄 HTML | 🎨 CSS | 🟨 JavaScript
 
-### 🛠️ Araçlar & Frameworkler
+### 🛠️ Tools & Frameworks
 🎮 Unity | 🔧 Git | 🖥️ VS Code
