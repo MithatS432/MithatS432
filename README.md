@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎮 I develop games with Unity.
 
-Just For Try 
-Git And Github
-Foulder :)
+🧠 I work on artificial intelligence and game design.
+
+🔧 I developed projects in C, C#, Python and Web Languages.
+
+### 💻 Teknolojiler & Diller
+🔵 C | 🟦 C# | 🐍 Python | 📄 HTML | 🎨 CSS | 🟨 JavaScript
+
+### 🛠️ Araçlar & Frameworkler
+🎮 Unity | 🔧 Git | 🖥️ VS Code
