@@ -1,27 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Mithat
+🎮 Game Developer | 🧠 AI & Game Design Enthusiast
 
-<!--
-**MithatS432/MithatS432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "I turn ideas into immersive games and intelligent experiences."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🎮 I develop games with Unity.
+## 💻 Technologies & Languages
+| Language | Icon |
+|----------|------|
+| C        | 🔵   |
+| C#       | 🟦   |
+| Python   | 🐍   |
+| HTML     | 📄   |
+| CSS      | 🎨   |
+| JavaScript | 🟨 |
 
-🧠 I work on artificial intelligence and game design.
-
-🔧 I developed projects in C, C#, Python and Web Languages.
-
-### 💻 Technologies & Languages
-🔵 C | 🟦 C# | 🐍 Python | 📄 HTML | 🎨 CSS | 🟨 JavaScript
-
-### 🛠️ Tools & Frameworks
-🎮 Unity | 🔧 Git | 🖥️ VS Code
+## 🛠️ Tools & Frameworks
+| Tool      | Icon |
+|-----------|------|
+| Unity     | 🎮   |
+| Git       | 🔧   |
+| VS Code   | 🖥️   |
