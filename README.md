@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Mithat
 🎮 Game Developer | 🧠 AI & Game Design Enthusiast
 
-> "I turn ideas into immersive games and intelligent experiences."
+>"I love turning ideas into immersive games and intelligent experiences."  
+>"Currently exploring AI-driven gameplay mechanics and experimenting with procedural content generation."
 
 ---
 
