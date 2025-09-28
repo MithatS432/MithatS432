@@ -1,9 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" alt="banner" width="100%">
+  <img src="https://imgur.com/a/HzPBGQ4.gif" alt="banner" width="100%">
 </p>
 
-#Hello Everyone, Welcome to My Profile
 
 # 🎮 Hi there, I'm Mithat  
 **AI-driven Game Developer | Unity Enthusiast | Procedural Worlds Explorer**
