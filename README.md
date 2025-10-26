@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/cpy1KhY.gif" alt="banner" width="100%">
+  <img src="https://i.imgur.com/YTRMbyD.gif" alt="banner" width="100%">
 </p>
 
 # 🎮 Hi there, I'm Mithat  
