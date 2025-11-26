@@ -36,9 +36,10 @@
 </p>
 
 ## 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihatS432&show_icons=true&theme=radical&cache_seconds=1800" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihatS432&layout=compact&theme=radical&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&theme=radical&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&theme=radical&cache_seconds=1800" height="180em"/>
 </p>
 
 ---
