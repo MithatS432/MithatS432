@@ -37,10 +37,9 @@
 </p>
 
 ## 📊 GitHub Analytics  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&theme=radical&cache_seconds=86400" height="180em"/>
 </p>
 
 ---
