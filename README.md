@@ -16,7 +16,6 @@
 ---
 
 ## 🛠️ Tech Stack  
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -38,8 +37,8 @@
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&theme=radical&cache_seconds=86400" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&theme=radical" height="180em"/>
 </p>
 
 ---
