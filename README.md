@@ -36,10 +36,18 @@
 </p>
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=false&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" 
+    height="150"
+/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter%20notebook,tex" 
+    height="150"
+/>
 </p>
+
 
 ---
 
