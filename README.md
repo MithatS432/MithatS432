@@ -39,13 +39,13 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=false&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" 
+    src="https://github-readme-stats-mithat.vercel.app/api?username=MithatS432&show_icons=false&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&cache_seconds=3600" 
     height="150"
-/>
+  />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter%20notebook,tex" 
+    src="https://github-readme-stats-mithat.vercel.app/api/top-langs/?username=MithatS432&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter%20notebook,tex&cache_seconds=3600" 
     height="150"
-/>
+  />
 </p>
 
 
