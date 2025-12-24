@@ -37,16 +37,27 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=false&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&cache_seconds=3600" 
-    height="150"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter%20notebook,tex&cache_seconds=3600" 
-    height="150"
-  />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=false&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+          height="150"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&hide=jupyter%20notebook,tex&hide_border=true&theme=transparent"
+          height="150"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
