@@ -42,14 +42,14 @@
     <tr>
       <td align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=false&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MithatS432&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
           height="150"
           alt="GitHub Stats"
         />
       </td>
       <td align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&hide=jupyter%20notebook,tex&hide_border=true&theme=transparent"
+          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&hide=jupyter%20notebook,tex&hide_border=true&theme=transparent"
           height="150"
           alt="Top Languages"
         />
@@ -57,6 +57,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
