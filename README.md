@@ -39,15 +39,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MithatS432&hide_title=true&include_all_commits=true&hide_border=true&theme=transparent&v=1"
+    src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=transparent&cache_seconds=86400"
     height="150"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&hide=jupyter%20notebook,tex&hide_border=true&theme=transparent&v=1"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&hide=jupyter%20notebook,tex&hide_border=true&theme=transparent&cache_seconds=86400"
     height="150"
   />
 </p>
-
 
 ---
 
