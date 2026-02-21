@@ -3,7 +3,7 @@
 </p>
 
 # 🎮 Hi there, I'm Mithat  
-**Software Engineer | Junior Game Programmer | Unity (C#) & AI Enthusiast**
+**Software Engineer | Junior Game Developer | Unity (C#) & AI Enthusiast**
 
 ---
 
@@ -33,10 +33,10 @@ I approach game development with a **Software Engineering mindset**, focusing on
 
 ### ⚙️ Tools & Version Control
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity%20Version%20Control-0072C6?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity%20Cloud-222222?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
