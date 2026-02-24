@@ -10,10 +10,10 @@
 ## 👨‍💻 About Me  
 I approach game development with a **Software Engineering mindset**, focusing on clean code, scalable systems, and immersive gameplay mechanics. 
 
-- 🕹️ **Core Focus:** Developing gameplay systems and AI behaviors using Unity & C#.
-- 🧠 **AI & Logic:** Implementing Finite State Machines (FSM), Pathfinding (A*), and Behavior Trees.
-- 🌍 **Procedural Worlds:** Exploring procedural content generation and dynamic environments.
-- 📈 **Continuous Growth:** Leveraging Python for Machine Learning basics and optimizing performance-aware scripts.
+- 🕹️ **Core Focus:** Developing gameplay systems and AI behaviors using Unity & C#  
+- 🧠 **AI & Logic:** Implementing Finite State Machines (FSM), Pathfinding (A*), and Behavior Trees  
+- 🌍 **Procedural Worlds:** Exploring procedural content generation and dynamic environments  
+- 📈 **Continuous Growth:** Leveraging Python for Machine Learning basics and optimizing performance-aware scripts  
 
 ---
 
@@ -25,9 +25,9 @@ I approach game development with a **Software Engineering mindset**, focusing on
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-* **Gameplay:** OOP Principles, ScriptableObject Workflows, Event-driven Systems.
-* **AI:** A* Pathfinding, FSM, Basic Behavior Trees.
-* **Data & Performance:** Data Structures, Algorithms, Basic Optimization Techniques.
+* **Gameplay:** OOP Principles, ScriptableObject Workflows, Event-driven Systems  
+* **AI:** A* Pathfinding, FSM, Basic Behavior Trees  
+* **Data & Performance:** Data Structures, Algorithms, Basic Optimization Techniques  
 
 ---
 
@@ -49,7 +49,6 @@ I approach game development with a **Software Engineering mindset**, focusing on
 ---
 
 ## 🧩 Secondary Skills & Foundations
-
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -63,6 +62,25 @@ I approach game development with a **Software Engineering mindset**, focusing on
 * **Web Basics:** HTML5, CSS3  
 * **Backend/Cloud:** PostgreSQL, Firebase (Auth & Realtime DB)  
 * **Workflow:** Gitflow fundamentals  
+
+---
+
+## 🤖 AI & Developer Assistants
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+</p>
+
+* AI-assisted gameplay prototyping & rapid iteration  
+* Structured prompt engineering for technical problem decomposition  
+* Code generation, refactoring & architectural validation  
+* Debugging acceleration & algorithmic cross-checking  
+* Research augmentation for systems design decisions  
 
 ---
 
