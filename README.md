@@ -71,7 +71,7 @@ I approach game development with a **Software Engineering mindset**, focusing on
   <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=microsoft"/>
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google"/>
   <img src="https://img.shields.io/badge/Google%20Antigravity-000000?style=for-the-badge&logo=google"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
@@ -82,7 +82,6 @@ I approach game development with a **Software Engineering mindset**, focusing on
 * Code generation, refactoring & architectural validation  
 * Debugging acceleration & algorithmic cross-checking  
 * Research augmentation for systems design decisions  
-
 
 ---
 
