@@ -86,19 +86,28 @@ I approach game development with a **Software Engineering mindset**, focusing on
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&include_all_commits=true&theme=transparent" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&theme=transparent" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MithatS432&theme=transparent&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MithatS432&theme=github-compact&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MithatS432&theme=transparent"/>
+</p>
+
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" />  
-  <i>“Crafting the future of games, one line of code at a time.”</i>  
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" />
-</p>
+### 🧠 Development Focus
 
-<p align="center">
-  🎯 Focused on growing as a gameplay programmer through continuous learning and practical development.
-</p>
+- 🎮 Gameplay Systems & Architecture  
+- 🤖 AI Behaviors (FSM, Pathfinding, Decision Logic)  
+- ⚙️ Modular & Scalable Code Design  
