@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/YTRMbyD.gif" alt="banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/cb686e90-2d71-4228-9b35-8bed6ac07dea" alt="Mithat Sırmalı - Unity Gameplay Developer Banner" width="100%">
 </p>
 
 # 🎮 Hi there, I'm Mithat  
@@ -85,6 +85,13 @@ I approach game development with a **Software Engineering mindset**, focusing on
 
 ---
 
+## 🧠 Development Focus
+- 🎮 **Gameplay Systems & Architecture:** Building robust and interactive core gameplay mechanics.
+- 🤖 **AI Behaviors:** Designing modular decision logic using FSMs, Pathfinding, and Decision Logic.
+- ⚙️ **Modular & Scalable Code Design:** Writing clean, decoupled, and performance-aware C# code.
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -103,11 +110,3 @@ I approach game development with a **Software Engineering mindset**, focusing on
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MithatS432&theme=transparent"/>
 </p>
-
----
-
-### 🧠 Development Focus
-
-- 🎮 Gameplay Systems & Architecture  
-- 🤖 AI Behaviors (FSM, Pathfinding, Decision Logic)  
-- ⚙️ Modular & Scalable Code Design  
