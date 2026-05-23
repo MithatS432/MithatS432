@@ -20,8 +20,8 @@ I approach game development with a **Software Engineering mindset**, focusing on
 
 ### 🕹 Game Development & Scripting
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-58A6FF?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 * **Gameplay:** OOP Principles, ScriptableObject Workflows, Event-driven Systems  
@@ -32,12 +32,12 @@ I approach game development with a **Software Engineering mindset**, focusing on
 
 ### ⚙️ Tools & Version Control
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity%20Version%20Control-0072C6?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity%20Cloud-222222?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-161B22?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity%20Version%20Control-161B22?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity%20Cloud-161B22?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 * Git workflow fundamentals  
@@ -49,12 +49,12 @@ I approach game development with a **Software Engineering mindset**, focusing on
 
 ## 🧩 Secondary Skills & Foundations
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-30363D?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-30363D?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-30363D?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-30363D?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-30363D?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 
 * **Languages:** C (CS fundamentals), JavaScript  
@@ -66,14 +66,7 @@ I approach game development with a **Software Engineering mindset**, focusing on
 
 ## 🤖 AI & Developer Assistants
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=microsoft"/>
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google"/>
-  <img src="https://img.shields.io/badge/Google%20Antigravity-000000?style=for-the-badge&logo=google"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Development-7C3AED?style=for-the-badge"/>
 </p>
 
 * AI-assisted gameplay prototyping & rapid iteration  
