@@ -4,7 +4,7 @@
        width="100%">
 </p>
 
-<h2 align="center"><b>🎮 Software Engineer | Unity (C#) & AI Enthusiast</b></h2>
+<h2 align="center"><b>🎮 Software Engineer | Junior Game Developer · Unity (C#) · AI Enthusiast</b></h2>
 
 ---
 
@@ -102,10 +102,9 @@ I approach game development with a **Software Engineering mindset**, focusing on
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&include_all_commits=true&theme=github_dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&theme=github_dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&theme=github_dark&cache_seconds=86400" height="160" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MithatS432&theme=github-dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MithatS432&theme=github-dark&hide_border=true" height="160"/>
 </p>
