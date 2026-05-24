@@ -28,9 +28,11 @@ I approach game development with a **Software Engineering mindset**, focusing on
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-- **Gameplay:** OOP Principles, ScriptableObject Workflows, Event-driven Systems  
-- **AI:** A* Pathfinding, FSM, Basic Behavior Trees  
-- **Data & Performance:** Data Structures, Algorithms, Basic Optimization Techniques  
+- **Gameplay Architecture:** OOP Principles, ScriptableObject Workflows, Event-driven Systems  
+- **AI Systems:** FSM, A* Pathfinding, Basic Behavior Trees, rule-based decision structures  
+- **Performance Engineering:** Data structures, algorithmic efficiency, runtime optimization techniques  
+- **AI-Assisted Development Workflow:** Using modern AI tools for rapid prototyping, debugging acceleration, code refactoring, and system design validation  
+- **Iterative Development:** Fast gameplay prototyping cycles supported by analytical and AI-assisted iteration loops  
 
 ---
 
@@ -48,54 +50,15 @@ I approach game development with a **Software Engineering mindset**, focusing on
 - Git workflow fundamentals  
 - Repository management  
 - Version control best practices  
-- Unity Cloud & Version Control basics  
-
----
-
-## 🧩 Secondary Skills & Foundations
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-- **Languages:** C (CS fundamentals), JavaScript  
-- **Web Basics:** HTML5, CSS3  
-- **Backend/Cloud:** PostgreSQL, Firebase (Auth & Realtime DB)  
-- **Workflow:** Gitflow fundamentals  
-
----
-
-## 🤖 AI & Developer Assistants
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=microsoft"/>
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google"/>
-  <img src="https://img.shields.io/badge/Google%20Antigravity-000000?style=for-the-badge&logo=google"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-</p>
-
-- AI-assisted gameplay prototyping & rapid iteration  
-- Structured prompt engineering for technical problem decomposition  
-- Code generation, refactoring & architectural validation  
-- Debugging acceleration & algorithmic cross-checking  
-- Research augmentation for systems design decisions  
+- Unity Cloud & collaboration pipelines  
 
 ---
 
 ## 🧠 Development Focus
 
 - 🎮 **Gameplay Systems & Architecture:** Building robust and interactive core gameplay mechanics  
-- 🤖 **AI Behaviors:** Designing modular decision logic using FSMs, Pathfinding, and Decision Logic  
-- ⚙️ **Modular & Scalable Code Design:** Writing clean, decoupled, and performance-aware C# code  
+- 🤖 **AI Behaviors:** Designing modular decision logic using FSMs, Pathfinding, and rule-based systems  
+- ⚙️ **Modular & Scalable Code Design:** Writing clean, decoupled, and performance-aware C# architectures  
 
 ---
 
@@ -105,6 +68,7 @@ I approach game development with a **Software Engineering mindset**, focusing on
   <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=86400" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&theme=github_dark&cache_seconds=86400" height="160" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MithatS432&theme=github-dark&hide_border=true" height="160"/>
 </p>
