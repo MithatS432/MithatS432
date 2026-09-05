@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cb686e90-2d71-4228-9b35-8bed6ac07dea" 
-       alt="Mithat Sırmalı - Unity Gameplay Developer Banner" 
-       width="100%">
-</p>
-
 <h2 align="center"><b>🎮 Software Engineer | Junior Game Developer · Unity (C#) · AI Enthusiast</b></h2>
 
 ---
