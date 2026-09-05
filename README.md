@@ -1,61 +1,68 @@
-<h2 align="center"><b>🎮 Software Engineer | Junior Game Developer · Unity (C#) · AI Enthusiast</b></h2>
+<h2 align="center">
+  <b>🎮 Software Engineer | Junior Unity Game Developer · C# · AI Enthusiast</b>
+</h2>
+
+<p align="center">
+  Building modular gameplay systems, game AI, and scalable mechanics with Unity & C#.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I approach game development with a **Software Engineering mindset**, focusing on clean code, scalable systems, and immersive gameplay mechanics.
+I'm a **Junior Unity Game Developer** with a Software Engineering mindset, focused on building **clean, modular, and scalable gameplay systems** using Unity and C#.
 
-- 🕹️ **Core Focus:** Developing gameplay systems and AI behaviors using Unity & C#  
-- 🧠 **AI & Logic:** Implementing Finite State Machines (FSM), Pathfinding (A*), and Behavior Trees  
-- 🌍 **Procedural Worlds:** Exploring procedural content generation and dynamic environments  
-- 📈 **Continuous Growth:** Leveraging Python for Machine Learning basics and optimizing performance-aware scripts  
+My main interests lie in **gameplay programming, game AI, and system architecture**, with a strong focus on writing maintainable code and designing systems that can evolve with the project.
 
----
-
-## 🛠 Tech Stack & Core Technologies
-
-### 🕹 Game Development & Scripting
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-- **Gameplay Architecture:** OOP Principles, ScriptableObject Workflows, Event-driven Systems  
-- **AI Systems:** FSM, A* Pathfinding, Basic Behavior Trees, rule-based decision structures  
-- **Performance Engineering:** Data structures, algorithmic efficiency, runtime optimization techniques  
-- **AI-Assisted Development Workflow:** Using modern AI tools for rapid prototyping, debugging acceleration, code refactoring, and system design validation  
-- **Iterative Development:** Fast gameplay prototyping cycles supported by analytical and AI-assisted iteration loops  
+* 🎮 **Gameplay Programming:** Developing player controllers, combat systems, weapons, abilities, and interactive mechanics
+* 🤖 **Game AI:** Exploring FSMs, A* Pathfinding, Behavior Trees, and decision-making systems
+* 🏗️ **System Architecture:** Applying OOP, SOLID principles, ScriptableObjects, and modular design patterns
+* ⚙️ **Performance & Scalability:** Developing performance-conscious and optimized gameplay systems
+* 📚 **Continuous Learning:** Exploring advanced AI, procedural generation, and Machine Learning fundamentals
 
 ---
 
-### ⚙️ Tools & Version Control
+## 🛠️ Tech Stack & Core Technologies
+
+### 🎮 Game Development & Scripting
 
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity%20Version%20Control-0072C6?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity%20Cloud-222222?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+* 🧩 **Gameplay Architecture:** OOP, ScriptableObject workflows, modular and event-driven systems
+* 🤖 **AI Systems:** FSM, A* Pathfinding, Behavior Trees, and rule-based decision-making
+* ⚙️ **Performance Engineering:** Data structures, algorithmic efficiency, and runtime optimization
+* 🧠 **Development Workflow:** Prototyping, debugging, refactoring, and iterative system development
+
+---
+
+### 🔧 Tools & Version Control
+
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity%20Version%20Control-0072C6?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity%20Cloud-222222?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Antigravity-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 </p>
 
-- Git-based version control workflows (branching, merging, conflict resolution)  
-- Repository lifecycle management and structured project organization  
-- Collaborative development pipelines using Unity Version Control & Unity Cloud  
-- AI-assisted development workflows (Cursor, Antigravity, VS Code ecosystem integration)  
-- Debugging, refactoring, and iterative development supported by modern tooling  
+* 🌿 Git-based version control and collaborative workflows
+* 🔀 Branching, merging, and conflict resolution
+* 📁 Structured project and repository organization
+* 🔍 Debugging, profiling, and code refactoring
+* 🤝 AI-assisted development for prototyping and engineering workflows
 
 ---
 
 ## 🧠 Development Focus
 
-- 🎮 **Gameplay Systems & Architecture:** Building robust and interactive core gameplay mechanics  
-- 🤖 **AI Behaviors:** Designing modular decision logic using FSMs, Pathfinding, and rule-based systems  
-- ⚙️ **Modular & Scalable Code Design:** Writing clean, decoupled, and performance-aware C# architectures  
+* 🎮 **Gameplay Systems & Architecture:** Building modular and interactive gameplay mechanics
+* 🤖 **AI & Algorithms:** Developing decision-making systems using FSMs, Pathfinding, and Behavior Trees
+* ⚙️ **Performance & Scalability:** Writing clean, decoupled, and performance-aware C# systems
 
 ---
 
