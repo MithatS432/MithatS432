@@ -27,8 +27,8 @@ My main interests lie in **gameplay programming, game AI, and system architectur
 ### 🎮 Game Development & Scripting
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 * 🧩 **Gameplay Architecture:** OOP, ScriptableObject workflows, modular and event-driven systems
@@ -72,7 +72,6 @@ My main interests lie in **gameplay programming, game AI, and system architectur
   <img src="https://github-readme-stats.vercel.app/api?username=MithatS432&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=86400" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatS432&layout=compact&langs_count=6&theme=github_dark&cache_seconds=86400" height="160" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MithatS432&theme=github-dark&hide_border=true" height="160"/>
 </p>
