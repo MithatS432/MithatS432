@@ -79,7 +79,7 @@ My primary interests include gameplay programming, game AI, and software archite
 <h4>
   🎯 Balance It
   <a href="https://play.google.com/store/apps/details?id=com.seninadn.balanceit&hl=en_US">
-    <img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" height="22"/>
+    <img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" height="20" align="center"/>
   </a>
 </h4>
 
