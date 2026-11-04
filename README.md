@@ -68,7 +68,6 @@ My primary interests include gameplay programming, game AI, and software archite
 
 ---
 
-
 ## 🎮 Published Games
 
 ### 💻 PC Games
@@ -77,10 +76,14 @@ My primary interests include gameplay programming, game AI, and software archite
 
 ### 📱 Mobile Games
 
-#### 🎯 Balance It · [Google Play](https://play.google.com/store/apps/details?id=com.seninadn.balanceit&hl=en_US)
+<h4>
+  🎯 Balance It
+  <a href="https://play.google.com/store/apps/details?id=com.seninadn.balanceit&hl=en_US">
+    <img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" height="22"/>
+  </a>
+</h4>
 
 A casual level-based mobile game where players progress through levels by completing balance-focused challenges.
-
 
 ---
 
