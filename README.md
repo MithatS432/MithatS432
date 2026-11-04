@@ -1,4 +1,5 @@
- <h2 align="center">
+
+<h2 align="center">
   <b>🎮 Software Engineer | Unity Game Developer · C# · Game AI</b>
 </h2>
 
@@ -64,6 +65,30 @@ My primary interests include gameplay programming, game AI, and software archite
 - 🤖 **Intelligent Game Systems:** Developing AI agents, navigation behaviors, and decision-making algorithms
 - 🏗️ **Scalable Architecture:** Applying software engineering principles to build decoupled and extensible systems
 - ⚡ **Optimization & Reliability:** Improving performance, maintainability, and runtime efficiency
+
+---
+
+## 🎮 Published Games
+
+### 💻 PC Games
+
+*Coming soon...*
+
+### 📱 Mobile Games
+
+#### 🎯 Balance It
+
+A mobile game developed with Unity and C#, featuring custom gameplay mechanics and modular gameplay components.
+
+- **Engine:** Unity
+- **Language:** C#
+- **Platform:** Android
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.seninadn.balanceit">
+    <img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
