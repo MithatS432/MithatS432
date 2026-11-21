@@ -49,7 +49,7 @@ My primary interests include gameplay programming, game AI, and software archite
   <img src="https://img.shields.io/badge/Unity%20Cloud-222222?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-FF6F61?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-3687FD?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 </p>
 
